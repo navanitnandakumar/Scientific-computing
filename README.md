@@ -10,4 +10,5 @@
     appreciate.</li>
   <li>Integration : Realize the function f(t) = 4t²+3 and plot it for the vector t = [-5,5] with increment 0.01 and use general integration tool to compute integral of f(t) within the limits -2 to +2 and repeat using trapezoidal and simpson method and compare the results.</li>
   <li>First order differential equation : Solve the first order differential equation dx/dt + 2x = 0, with the initial condition x(0) = 1.</li>
+  <li>Current transient : Solve for the current transient through an RC network (with RC = 3) that is driven by the signal 5e^(-t).U(t) and plot the solutions.</li>
 </ul>
