@@ -9,4 +9,5 @@
   <li>Derivative plot : Compute the first and second derivatives of sin(x) using built in tools such as gradient and plot the derivatives over sin(x) and
     appreciate.</li>
   <li>Integration : Realize the function f(t) = 4t²+3 and plot it for the vector t = [-5,5] with increment 0.01 and use general integration tool to compute integral of f(t) within the limits -2 to +2 and repeat using trapezoidal and simpson method and compare the results.</li>
+  <li>First order differential equation : Solve the first order differential equation dx/dt + 2x = 0, with the initial condition x(0) = 1.</li>
 </ul>
