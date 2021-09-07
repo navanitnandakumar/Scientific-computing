@@ -14,4 +14,5 @@
   <li>Second order differential equation : Solve the second order differential equation x'' + 2x' + 2x = e^(-t). Let x(0)=0 and x'(0)=0.</li>
   <li>Random data plots : Draw stem plots, line plots and bar plots with random data.</li>
   <li>CSV write : Realize the function y = 2 + 5sin(2πft) for f = 1KHz, plot it and write it as a .csv file.</li>
+  <li>CSV read : Read the .csv file from CSV write as an array and plot it. Compute the mean and standard deviation of the signal. Plot its histogram with an appropriate bin size.</li>
 </ul>
