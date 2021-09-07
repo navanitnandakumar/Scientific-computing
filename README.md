@@ -13,4 +13,5 @@
   <li>Current transient : Solve for the current transient through an RC network (with RC = 3) that is driven by the signal 5e^(-t).U(t) and plot the solutions.</li>
   <li>Second order differential equation : Solve the second order differential equation x'' + 2x' + 2x = e^(-t). Let x(0)=0 and x'(0)=0.</li>
   <li>Random data plots : Draw stem plots, line plots and bar plots with random data.</li>
+  <li>CSV write : Realize the function y = 2 + 5sin(2πft) for f = 1KHz, plot it and write it as a .csv file.</li>
 </ul>
