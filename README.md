@@ -15,5 +15,5 @@
   <li>Random data plots : Draw stem plots, line plots and bar plots with random data.</li>
   <li>CSV write : Realize the function y = 2 + 5sin(2πft) for f = 1KHz, plot it and write it as a .csv file.</li>
   <li>CSV read : Read the .csv file from CSV write as an array and plot it. Compute the mean and standard deviation of the signal. Plot its histogram with an appropriate bin size.</li>
-  <li>Fourier series : Realize the vector t = [0, 100] with an increment of 0.01 and keep T = 20. Realize the following Fourier series : - f(t) = (4/𝜋) * [1-((1/3)cos(2𝜋3t/T))+((1/5)cos(2𝜋5t/T))-((1/7)cos(2𝜋7t/T))+...]
+  <li>Fourier series : Realize the vector t = [0, 100] with an increment of 0.01 and keep T = 20. Realize the following Fourier series - f(t) = (4/𝜋) * [1-((1/3)cos(2𝜋3t/T))+((1/5)cos(2𝜋5t/T))-((1/7)cos(2𝜋7t/T))+...]
 </ul>
